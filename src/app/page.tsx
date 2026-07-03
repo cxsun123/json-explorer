@@ -11,7 +11,7 @@ import { useLocale } from "@/lib/locales/LocaleContext";
 type ViewMode = "text" | "tree" | "table";
 
 const sampleJson = `{
-  "name": "JSON Viewer",
+  "name": "JSON Explorer",
   "version": "1.0.0",
   "features": ["text", "tree", "table"],
   "config": {

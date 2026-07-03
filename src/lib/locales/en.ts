@@ -1,6 +1,6 @@
 export default {
   app: {
-    title: "JSON Viewer",
+    title: "JSON Explorer",
   },
   tabs: {
     text: "Text",

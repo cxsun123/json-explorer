@@ -3,7 +3,7 @@ import "./globals.css";
 import { LocaleProvider } from "@/lib/locales/LocaleContext";
 
 export const metadata: Metadata = {
-  title: "JSON Viewer",
+  title: "JSON Explorer",
   description: "Online JSON file parser and viewer with Text, Tree, and Table views",
 };
 
