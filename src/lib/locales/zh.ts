@@ -2,7 +2,7 @@ import type { Locale } from "./en";
 
 const zh: Locale = {
   app: {
-    title: "JSON 查看器",
+    title: "JSON 浏览器",
   },
   tabs: {
     text: "文本",
