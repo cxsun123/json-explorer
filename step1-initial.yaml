@@ -1,0 +1,19 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - heading "JSON Viewer" [level=1] [ref=e4]
+      - generic [ref=e5]:
+        - button "Text" [ref=e6]
+        - button "Tree" [disabled] [ref=e7]
+        - button "Table" [disabled] [ref=e8]
+    - main [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]:
+          - button "Parse" [ref=e12]
+          - button "Format" [ref=e13]
+          - button "Open File" [ref=e14]
+          - button "Copy" [ref=e15]
+        - textbox "Paste your JSON here..." [ref=e16]: "{ \"name\": \"JSON Viewer\", \"version\": \"1.0.0\", \"features\": [\"text\", \"tree\", \"table\"], \"config\": { \"theme\": \"dark\", \"indent\": 2, \"options\": { \"validate\": true, \"format\": true, \"copy\": true } }, \"active\": true }"
+  - button "Open Next.js Dev Tools" [ref=e22] [cursor=pointer]:
+    - img [ref=e23]
+  - alert [ref=e26]

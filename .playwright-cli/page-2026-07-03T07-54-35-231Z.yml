@@ -1,0 +1,35 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - heading "JSON Viewer" [level=1] [ref=e4]
+      - generic [ref=e5]:
+        - button "Text" [ref=e6]
+        - button "Tree" [ref=e7]
+        - button "Table" [active] [ref=e8]
+    - main [ref=e9]:
+      - generic [ref=e52]:
+        - generic [ref=e53]:
+          - generic [ref=e54]: root
+          - generic [ref=e56] [cursor=pointer]:
+            - generic [ref=e57]: data
+            - generic [ref=e58]: "{}"
+            - generic [ref=e59]: ›
+        - generic [ref=e63]:
+          - generic [ref=e64]:
+            - generic [ref=e65]: root
+            - generic [ref=e66]: —
+            - generic [ref=e67]: 1 keys
+          - table [ref=e68]:
+            - rowgroup [ref=e69]:
+              - row "Key Value Type" [ref=e70]:
+                - columnheader "Key" [ref=e71]
+                - columnheader "Value" [ref=e72]
+                - columnheader "Type" [ref=e73]
+            - rowgroup [ref=e74]:
+              - 'row "data Object(1) {}" [ref=e75]':
+                - cell "data" [ref=e76]
+                - cell "Object(1)" [ref=e77]
+                - 'cell "{}" [ref=e78]'
+  - button "Open Next.js Dev Tools" [ref=e47] [cursor=pointer]:
+    - img [ref=e48]
+  - alert [ref=e17]
