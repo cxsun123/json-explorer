@@ -6,7 +6,7 @@ const zh: Locale = {
   },
   tabs: {
     text: "文本",
-    tree: "树形",
+    tree: "树状",
     table: "表格",
   },
   tree: {
