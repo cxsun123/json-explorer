@@ -6,25 +6,25 @@ Built with [Next.js](https://nextjs.org) (App Router) + [Tailwind CSS](https://t
 
 ## Screenshots
 
-![Drop a file](json_explorer_1_drop_a_file.png)
+<img src="json_explorer_1_drop_a_file.png" width="800">
 
 **File drop & open** — drag-and-drop `.json`/`.jsonc` files anywhere, or open via file picker; auto-parses on load.
 
 ---
 
-![Text editor](json_explorer_2_text_editor.png)
+<img src="json_explorer_2_text_editor.png" width="800">
 
 **Text view** — edit, format, parse, copy, and validate JSON with toolbar actions.
 
 ---
 
-![Tree view](json_explorer_3_tree_viewer.png)
+<img src="json_explorer_3_tree_viewer.png" width="800">
 
 **Tree view** — expand/collapse to any level, node selection, toolbar actions (expand all / collapse all / expand to level).
 
 ---
 
-![Table view](json_explorer_4_table_viewer.png)
+<img src="json_explorer_4_table_viewer.png" width="800">
 
 **Table view** — multi-column browser with resizable columns, detail panel, clickable path breadcrumb with copy.
 
