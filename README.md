@@ -6,18 +6,27 @@ Built with [Next.js](https://nextjs.org) (App Router) + [Tailwind CSS](https://t
 
 ## Screenshots
 
-| Drop a file to view | Text editor | Tree view | Table view |
-|:---:|:---:|:---:|:---:|
-| ![drop](json_explorer_1_drop_a_file.png) | ![text](json_explorer_2_text_editor.png) | ![tree](json_explorer_3_tree_viewer.png) | ![table](json_explorer_4_table_viewer.png) |
+![Drop a file](json_explorer_1_drop_a_file.png)
 
-## Features
+**File drop & open** — drag-and-drop `.json`/`.jsonc` files anywhere, or open via file picker; auto-parses on load.
 
-- **Text view** — edit, format, parse, copy, and validate JSON with toolbar actions
-- **Tree view** — expand/collapse to any level, node selection, toolbar actions (expand all / collapse all / expand to level)
-- **Table view** — multi-column browser with resizable columns, detail panel, clickable path breadcrumb with copy
-- **File drop & open** — drag-and-drop `.json`/`.jsonc` files anywhere, or open via file picker; auto-parses on load
-- **Bilingual UI** — English / 中文, toggle in header
-- **Responsive** — adapts to desktop and mobile screens
+---
+
+![Text editor](json_explorer_2_text_editor.png)
+
+**Text view** — edit, format, parse, copy, and validate JSON with toolbar actions.
+
+---
+
+![Tree view](json_explorer_3_tree_viewer.png)
+
+**Tree view** — expand/collapse to any level, node selection, toolbar actions (expand all / collapse all / expand to level).
+
+---
+
+![Table view](json_explorer_4_table_viewer.png)
+
+**Table view** — multi-column browser with resizable columns, detail panel, clickable path breadcrumb with copy.
 
 ## Getting Started
 
