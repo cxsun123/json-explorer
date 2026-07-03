@@ -4,6 +4,12 @@ An online JSON file parser and viewer with Text, Tree, and Table views.
 
 Built with [Next.js](https://nextjs.org) (App Router) + [Tailwind CSS](https://tailwindcss.com).
 
+## Screenshots
+
+| Drop a file to view | Text editor | Tree view | Table view |
+|:---:|:---:|:---:|:---:|
+| ![drop](json_explorer_1_drop_a_file.png) | ![text](json_explorer_2_text_editor.png) | ![tree](json_explorer_3_tree_viewer.png) | ![table](json_explorer_4_table_viewer.png) |
+
 ## Features
 
 - **Text view** — edit, format, parse, copy, and validate JSON with toolbar actions
